@@ -16,7 +16,7 @@
 	
 
 	//dir galery
-	$tblDemo->addButtonToRow("directories", "dir.php"); 
+	$tblDemo->addButtonToRow("posts", "post.php"); 
 	
 	//$tblDemo->turnOffAjaxADD();
 	$tblDemo->showTable();
