@@ -5,6 +5,8 @@ i decided to go with the most minimalistic implantation of my framework.<br>
 just to show how it works i have a much bigger project and will create a few more complex ones<br>
 in the future. 
 <br>
+also i didnt use any design,the hole system is a pure example of data maniulation (although a simple implantation)
+<br>
 
 what is uses:<br>
 *ajax crud for easy admin side (check out their website its really simple).<br>
