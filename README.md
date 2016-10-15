@@ -8,7 +8,7 @@ in the future.
 also i didnt use any design,the hole system is a pure example of data maniulation (although a simple implantation)
 <br>
 
-what is uses:<br>
+what is used:<br>
 *ajax crud for easy admin side (check out their website its really simple).<br>
 *my login class<br>
 *google map class from php classes with my helper functions<br>
